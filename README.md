@@ -1,8 +1,6 @@
 # Open Market ReadME
 
-- 
-
-와 LJ가 만든 Open Market App입니다.
+- Kyo 와 LJ가 만든 Open Market App입니다.
 
 ## 목차
 1. [팀 소개](#팀-소개)
