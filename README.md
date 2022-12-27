@@ -1,6 +1,8 @@
 # Open Market ReadME
 
-- Kyo와 LJ가 만든 Open Market App입니다.
+- 
+
+와 LJ가 만든 Open Market App입니다.
 
 ## 목차
 1. [팀 소개](#팀-소개)
@@ -23,11 +25,9 @@
 
 ## Ground Rule
 
-[Ground Rule 바로가기](https://github.com/KyoPak/ios-open-market/wiki/GroundRule)
+[Ground Rule 바로가기](https://github.com/lj-7-77/ios-open-market/wiki/Ground-Rules)
 
-## Code Convention
 
-[Code Convention 바로가기](https://github.com/KyoPak/ios-open-market/wiki/Code-Convention)
 
 ## 실행 화면
 
@@ -777,7 +777,7 @@ extension UIViewController {
     
 ## 일일 스크럼
 
-[일일 스크럼 바로가기](https://github.com/KyoPak/ios-open-market/wiki/Scrum)
+[일일 스크럼 바로가기](https://github.com/lj-7-77/ios-open-market/wiki/open-market-scrum)
 
 ## 참고 링크
 
